@@ -1,0 +1,14 @@
+{
+  "name": "wa-minigames",
+  "version": "1.0.0",
+  "description": "WhatsApp Mini Games Bot untuk Grup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
+
